@@ -10,3 +10,4 @@ alurastartestudante@email.com
 @alurastartestudante
 ( e-mail fictício)
 ![](link)
+> Escrito por Gabriella Stefanini
